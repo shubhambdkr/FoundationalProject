@@ -1,14 +1,23 @@
-# FoundationalProject
-*It is a console application that stores and retrieves Student Information.
+# Console Based Salary Management System
+- Update Student Details, Course Selection and Helps to take Quiz.
+# Technologies used:
+- Java
+- Maven
+- JDBC
+- MySQL
+- JUnit
 
-*Students can use their mobile number as a unique identity in this app.
+# User functionalities
+- Student Registration
+- Add/ Update/ Remove Student Details
+- Add/ Update/ Remove Student Course Details
+- Calcutes performance of Students who takes Quiz.
 
-*The data of the users is stored in a local server (MySQL server).
-
-*This app helps students to choose courses based on difficulty level.
-
-*This app also helps to take Quiz.
-
-*It rewards the students who perform well in the Quiz.
-
-*It helps students to understand new things.
+# Dependencies in Study Buddy app
+- Maven
+- JDBC driver
+- Junit
+# Tools used
+- Eclipse
+- JDK 1.8
+- MySQL
